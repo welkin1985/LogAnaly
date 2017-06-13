@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d2314f8a-e330-48b6-8b3a-f41f14cf6f4b" name="node01" url="http://node01.ali.ws.com:8080">
+        <fileTransfer host="node01.ali.ws.com" port="22" rootFolder="/usr/tomcat-8.5.15/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

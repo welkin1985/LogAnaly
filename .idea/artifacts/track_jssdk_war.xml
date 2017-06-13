@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="track_jssdk:war">
+    <output-path>$PROJECT_DIR$/track_jssdk/target</output-path>
+    <root id="archive" name="track_jssdk-0.0.1.war">
+      <element id="artifact" artifact-name="track_jssdk:war exploded" />
+    </root>
+  </artifact>
+</component>
